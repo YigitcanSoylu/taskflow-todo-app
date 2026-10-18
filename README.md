@@ -51,6 +51,7 @@ git clone https://github.com/YigitcanSoylu/taskflow-todo-app.git
 ```
 
 https://github.com/YigitcanSoylu/taskflow-todo-app.git
+https://flourishing-sorbet-c18ef4.netlify.app/
 
 ### 2. Proje klasörüne gir
 
@@ -84,6 +85,7 @@ Bu komut, uygulamanın dağıtıma hazır dosyalarını `dist` klasörüne oluş
 
 ```bash
 npm run preview
+
 ```
 
 ## 📁 Proje Dosya Yapısı
