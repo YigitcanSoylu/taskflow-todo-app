@@ -31,21 +31,6 @@ Bu proje, yazılım geliştirme eğitimi kapsamında modern web teknolojilerini 
 | HTML5 ve CSS3 | Sayfa yapısı ve görsel tasarım                  |
 | Local Storage | Görev verilerinin tarayıcıda saklanması         |
 
-## 📸 Ekran Görüntüleri
-
-Uygulamanın ekran görüntülerini `screenshots` klasörüne ekleyerek aşağıdaki bölümlerde gösterebilirsin.
-
-### Ana Sayfa
-
-![TaskFlow Ana Sayfa](screenshots/ana-sayfa.png)
-
-### İstatistikler Sayfası
-
-![TaskFlow İstatistikler Sayfası](screenshots/istatistikler.png)
-
-### Hakkında Sayfası
-
-![TaskFlow Hakkında Sayfası](screenshots/hakkinda.png)
 
 ## 🚀 Kurulum ve Çalıştırma
 
@@ -62,10 +47,10 @@ Projeyi kendi bilgisayarında çalıştırmak için aşağıdaki adımları izle
 GitHub deposunun adresini kullanarak projeyi bilgisayarına indir:
 
 ```bash
-git clone GITHUB_DEPO_ADRESIN
+git clone https://github.com/YigitcanSoylu/taskflow-todo-app.git
 ```
 
-`GITHUB_DEPO_ADRESIN` kısmını kendi GitHub depo adresinle değiştir.
+https://github.com/YigitcanSoylu/taskflow-todo-app.git
 
 ### 2. Proje klasörüne gir
 
